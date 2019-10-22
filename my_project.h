@@ -8,6 +8,8 @@
 
 class my_project {
 
+public:
+    my_project();
 };
 
 
