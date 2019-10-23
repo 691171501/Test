@@ -5,11 +5,14 @@
 #ifndef TEST_MY_PROJECT_H
 #define TEST_MY_PROJECT_H
 
-
 class my_project {
 
 public:
     my_project();
+
+    void print_data() {
+
+    }
 
 private:
     int pos_;
