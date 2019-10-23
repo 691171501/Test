@@ -5,5 +5,8 @@
 #include "my_project.h"
 
 int main() {
+
+    auto data = my_project();
+    data.print_data(100);
     return  0;
 }
