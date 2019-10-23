@@ -10,8 +10,8 @@ class my_project {
 public:
     my_project();
 
-    void print_data() {
-
+    void print_data(int n) {
+           print("current_data: %d ", n)
     }
 
 private:
