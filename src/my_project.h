@@ -11,7 +11,7 @@ public:
     my_project();
 
     void print_data(int n) {
-           print("current_data: %d ", n)
+           print("current_data: %d ", n);
     }
 
 private:
