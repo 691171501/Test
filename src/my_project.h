@@ -12,7 +12,7 @@ public:
     my_project();
 
 private:
-    int pos_;
+    int pos_E
 };
 
 
