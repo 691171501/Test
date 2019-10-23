@@ -13,6 +13,7 @@ public:
 
 private:
     int pos_;
+    double price;
 };
 
 
