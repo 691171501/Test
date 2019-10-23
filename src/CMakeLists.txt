@@ -4,4 +4,4 @@ set(CMAKE_CXX_STANDARD 14)
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS}  -pthread -g -Wall")
 aux_source_directory(. SOURCES)
 add_executable(Test  ${SOURCES})
-message(STATUS "Test:" ${SOURCES})
+message(STATUS "Test:" ${SOURCES}) 123
