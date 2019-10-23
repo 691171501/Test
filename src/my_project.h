@@ -10,6 +10,9 @@ class my_project {
 
 public:
     my_project();
+
+private:
+    int pos_;
 };
 
 
