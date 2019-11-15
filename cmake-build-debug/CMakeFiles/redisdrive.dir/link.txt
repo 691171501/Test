@@ -1,0 +1,1 @@
+/usr/bin/c++    -pthread -g -Wall -g   CMakeFiles/redisdrive.dir/my_project.cpp.o  -o redisdrive 

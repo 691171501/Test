@@ -1,0 +1,1 @@
+/usr/bin/c++    -pthread -g -Wall   CMakeFiles/Test.dir/clockdiff_remote.cc.o CMakeFiles/Test.dir/d_p.cc.o CMakeFiles/Test.dir/define.cpp.o CMakeFiles/Test.dir/my_project.cpp.o CMakeFiles/Test.dir/parsedata.cpp.o  -o Test -lboost_system -lboost_filesystem ../base/libbase.a -lglog -lgflags -lboost_system -lpthread 

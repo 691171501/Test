@@ -195,7 +195,7 @@ int main() {
 //    TestTransform();
 //    TestLSC();
 //    Testbit();
-    getchar();
+//    getchar();
 
     return  0;
 }

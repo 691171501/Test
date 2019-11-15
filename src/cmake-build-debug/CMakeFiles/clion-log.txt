@@ -1,0 +1,5 @@
+/home/xuchaowu/software/clion-2019.1.3/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/xuchaowu/Project/Test/src
+-- Test:./LCS.cc./clockdiff_remote.cc./d_p.cc./define.cpp./my_project.cpp./parsedata.cpp
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/xuchaowu/Project/Test/src/cmake-build-debug

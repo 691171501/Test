@@ -1,0 +1,2 @@
+/usr/bin/ar qc libbase.a  CMakeFiles/base.dir/cmd_define.cc.o CMakeFiles/base.dir/common.cc.o CMakeFiles/base.dir/exit_sys.cc.o CMakeFiles/base.dir/file_system.cc.o CMakeFiles/base.dir/string_utils.cc.o
+/usr/bin/ranlib libbase.a

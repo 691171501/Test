@@ -145,8 +145,6 @@ private:
 };
 
 
-
-
 template <>
 class ParseData<kLvl2MarketData> { ;
 public:
